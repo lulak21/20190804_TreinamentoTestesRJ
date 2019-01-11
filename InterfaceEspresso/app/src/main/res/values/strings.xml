@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora de Comissão</string>
+    <string name="sales_value_text_message">Digite o valor da venda</string>
+    <string name="calculate_button">Calcular</string>
+</resources>

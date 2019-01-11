@@ -1,0 +1,4 @@
+[caps]
+platformName = 'Android'
+deviceName = '051056090405'
+app = '~/Projects/K21/DojosAndroid/appium-cucumber/build/apk/calculadora.apk'
